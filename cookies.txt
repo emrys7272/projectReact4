@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sc-static.net	TRUE	/scevent.min.js	FALSE	1999999999	X-AB	0d6e407936704bd380072f5891d28b0e
+www.shecodes.io	TRUE	/	FALSE	1999999999	_wecode_session	Dd08QNluCUaViYi%2FrtZqeKzPzk5xrebVgpz13wRKPvjyNpGo31LIlKSh%2FlE1AAAnIgl6mkrKwWcUS8hN3HuIGiVKn%2FHxPk3RyXwPwefzJYcLM8LELj1QB1IMFuxC%2FrNL4u1KgSoKD%2F0eS6wNHmP35sFkuOa49Bi8RMwtZ5vHAU836ykINFn8cW9T0YSakqiEtexNWe4mRSnyxt%2F71Qc5eylAZEOLAoXvYVfjbAXs0UQ4r2KjAJgROBI%2BDbfiqFTit2IlLk28YcCPrKmSQy21iVczY1pvdgA%3D--mxojiC%2BDlzwppMA0--MUSPrOSFj8%2B5jro2bPdh3A%3D%3D
+sc-static.net	TRUE	/	FALSE	1999999999	SameSite	None
+
